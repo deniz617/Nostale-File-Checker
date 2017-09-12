@@ -1,0 +1,13 @@
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\bin\Debug\NostaleFileChecker.exe.config
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\NostaleFileChecker.csprojResolveAssemblyReference.cache
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\MainWindow.baml
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\MainWindow.g.cs
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\App.g.cs
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\NostaleFileChecker_MarkupCompile.cache
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\NostaleFileChecker.g.resources
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\NostaleFileChecker.Properties.Resources.resources
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\NostaleFileChecker.csproj.GenerateResource.Cache
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\bin\Debug\NostaleFileChecker.exe
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\bin\Debug\NostaleFileChecker.pdb
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\NostaleFileChecker.exe
+c:\users\deniz\documents\visual studio 2013\Projects\NostaleFileChecker\NostaleFileChecker\obj\Debug\NostaleFileChecker.pdb
